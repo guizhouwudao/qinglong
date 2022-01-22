@@ -1,0 +1,14 @@
+{
+  "name": "qinglong",
+  "description": "qinglong run in your Heroku",
+  "repository": "https://github.com/xiaoxiaofeixf/qinglong",
+  "logo": "https://camo.githubusercontent.com/a5ba062da9a9e860e790c3fae9b943988becc83897ab2c7722b6d66f3f4c4e30/68747470733a2f2f7a332e617831782e636f6d2f323032312f31312f31382f49374d7041652e706e67",
+  "keywords": [
+    "node",
+    "express",
+    "elecv2p",
+    "cloud-development",
+    "heroku-api"
+  ],
+  "stack": "container"
+}
